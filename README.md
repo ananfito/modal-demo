@@ -5,6 +5,8 @@
 - [Status](#status)
 - [Connect](#connect)
 
+![animated GIF file of the modal in action](./modal-demo.gif)
+
 ![screenshot of the webpage without the modal](./modal-closed.png)
 
 ![screenshot of the webpage with the modal](./modal-open.png)
