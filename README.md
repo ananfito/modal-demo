@@ -10,7 +10,7 @@
 ![screenshot of the webpage with the modal](./modal-open.png)
 
 ## About
-This webpage is a simple demonstration of a modal using HTML, CSS, and JavaScript. The modal is activated when the 'Where's our Modal?' button is clicked and deactivated when the '`x`' is clicked or anywhere on the page.
+This webpage is a demonstration of a modal using HTML, CSS, and JavaScript. The modal is activated when the 'Where's our Modal?' button is clicked and deactivated when the '`x`' is clicked or anywhere on the page.
 
 This project was built as part of the [JavaScript DOM Manipulation – Full Course for Beginners](https://youtu.be/5fb2aPlgoys) taught by CodeLab and hosted by freeCodeCamp. This project was created as part of my participation in the [#100DaysOfCode Challenge](https://github.com/ananfito/100-days-of-code).
 
